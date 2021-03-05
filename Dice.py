@@ -16,4 +16,3 @@ if regexMatch != None:
     print("END")
 else:
     print("Unrecognized Input")
-
